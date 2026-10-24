@@ -3,6 +3,10 @@
 ## Overview
 A professional weather dashboard built with React and Vite for searching cities, viewing live conditions, exploring a 5-day forecast, using current location, and toggling between light and dark modes.
 
+## 🌐 Live Demo
+
+Try the Weather Dashboard: https://effervescent-medovik-05617b.netlify.app/
+
 ## Features
 - City search with loading, error, and empty states
 - Current weather details and weather statistics
