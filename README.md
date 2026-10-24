@@ -81,7 +81,7 @@ npm run build
 ```
 
 ## Screenshots
-Add screenshots here after launching the app locally.
+![Weather Dashboard](weather-dashboard.png)
 
 ## Future Improvements
 - Hourly forecast view
